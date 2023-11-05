@@ -1,4 +1,4 @@
-<samp><a href="https://anzifan.com" target="_blank" rel="noopener noreferrer">anzifan.com</a></samp>
+<samp><a href="https://anzifan.com" target="_blank" rel="noopener noreferrer">chenjia.xin</a></samp>
 
 Personal blog powered by Notion official API + Next.JS + WindiCSS!
 ヽ(✿ﾟ▽ﾟ)ノ 
